@@ -2,6 +2,8 @@
 
 A clone of Zoom's Studio Effects feature written in Python.
 
+![Demo](demo.jpg)
+
 ## Dependencies
 
 Make sure to install Python 3 and PyPi (pip) before installing any dependencies. To verify these are installed, make sure the `python3` and `pip`/`pip3` commands exist.
@@ -69,4 +71,4 @@ If there are issues with defining the dimensions and position of the image/video
 
 See `LICENSE` for licensing information.
 
-Give this repo a ⭐️ if you like it, and always feel free to contribute or submit an issue if you have one.
+Give this repo a ⭐️  if you like it, and always feel free to contribute or submit an issue if you have one.
